@@ -1,5 +1,7 @@
 # CubeDesign-2021-DataScience
 
+O arquivo "black_canary_epos.ipynb" contém a solução desenvolvida pela equipe e é o único arquivo necessário para reproduzir nossa submissão.
+
 ## Versão das bibliotecas utilizadas
 
 Python - 3.7.12
